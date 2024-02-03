@@ -13,7 +13,7 @@ body{
     background-color: white;
     padding:2rem;
     border-radius: 1rem;
-    min-height: 350px;
+    height: 350px;
     width:40vh ;
 }
 h2{
