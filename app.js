@@ -1,4 +1,4 @@
-const Base_URL="https://api.forexrateapi.com/v1/latest?api_key=7c63829bee60b51b99cb34998685d770";
+const Base_URL="https://api.forexrateapi.com/v1/latest?api_key=ea45854ef768a6923a8d92a12b4fad4a";
 
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn= document.querySelector("form button");
